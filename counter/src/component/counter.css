@@ -1,0 +1,23 @@
+.app_container{
+ margin: 0 45%;
+ background-color:#a2d2ff ;
+ width: 250px;
+ height: 200px;
+ border-radius: 4px;
+}
+.container{
+    padding: 20px 20px;
+   
+}
+#count{
+
+}
+
+#input{
+
+width: 20px; /* Set the width to a shorter length */
+border: 1px solid #11191f; /* Change the border color */
+border-radius: 4px; /* Optional: add rounded corners */
+padding: 5px; /* Optional: add some padding */
+outline: none; /* Remove default outline */
+}
